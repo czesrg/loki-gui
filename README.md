@@ -208,3 +208,8 @@ The Loki GUI on Windows is 64 bits only; 32-bit Windows GUI builds are not offic
     ```
 
 The executable can be found in the `.\release\bin` directory.
+
+### Donate me:
+Loki: LEWrekMx2TKgFKkZVAhTrGf543UMhu83v6AUmAfVmwZ7YwcNNyUUBdF28KqrVpnqi17czNtEvtZn5bkZHUkfUiq6434VXpK
+Monero: 484m3WHUFBRXbM2xtgxEdYFsjykxf2Mj6EnNfheCpnE53dEXmFYrWNiiXbrC6oEKqT6kumgzoPVJvUjW6PPGhpUpFWdQsfK
+Bitcoin: 1HioM2usJjx7k3VgQwg1ijwz7CPkt4ZWzH
